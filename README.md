@@ -55,8 +55,7 @@ The project uses the [SMS Spam Collection dataset](https://archive.ics.uci.edu/d
 
 ## 📝 Future Enhancements that can be made:
 - Integrating topic modeling with Gensim.
-- Deploying the system via Flask or FastAPI.
-- Extending the pipeline to handle multilingual datasets.
+- Deploying the system via Flask or FastAPI
 
 ---
 
