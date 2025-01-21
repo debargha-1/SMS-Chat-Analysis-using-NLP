@@ -21,7 +21,7 @@ The project uses the [SMS Spam Collection dataset](https://archive.ics.uci.edu/d
 ---
 
 ## 🛠️ Tools and Technologies
-- **NLP Libraries**: NLTK, SpaCy, Hugging Face Transformers
+- **NLP Libraries**: NLTK
 - **Machine Learning**: Scikit-learn, Random Forest, Logistic Regression
 - **Data Handling**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
@@ -32,7 +32,7 @@ The project uses the [SMS Spam Collection dataset](https://archive.ics.uci.edu/d
 - Tokenization, stop word removal, and stemming/lemmatization.
 
 ### 2. **Modeling**
-- Experimenting with Logistic Regression, Random Forest, and SVM for classification.
+- Experimenting with Logistic Regression, Random Forest, and Naive Bayes for classification.
 - Fine-tuning hyperparameters using GridSearchCV.
 
 ### 3. **Evaluation**
