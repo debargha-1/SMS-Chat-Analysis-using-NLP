@@ -45,10 +45,11 @@ The project uses the [SMS Spam Collection dataset](https://archive.ics.uci.edu/d
 **Best Model**: Random Forest  
 **Accuracy**: 97.68%  
 **Classification Report**:
-          precision    recall  f1-score   support
-       0       0.97      1.00      0.99       894
-       1       1.00      0.83      0.91       140
-accuracy                           0.98      1034
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| 0     | 0.97      | 1.00   | 0.99     | 894     |
+| 1     | 1.00      | 0.83   | 0.91     | 140     |
+| **Accuracy** |       |        | 0.98     | 1034    |
 
 ---
 
